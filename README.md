@@ -1,31 +1,44 @@
-# Socail Network Api
-  ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Social Network Api
 
-  ## Description
-  Backend Mongoose routes for a socail network
+![license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+## Description
 
-  ## Installation
-  Instalation/cloning available at the github repository
+Backend Mongoose routes for a social network
 
-  ## Usage
-  *npm install* then *node script.js* in the root directory
+![Alt text](image.png)
 
-  ## License
-  This project is licensed under the [MIT License]([License Details](https://opensource.org/licenses/MIT)).
+## Table of Contents
 
-  ## Contributing
-  Cardon Hickman
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
 
-  ## Tests
-  N/A
+## Installation
 
-  ## Questions
-  https://github.com/C-Hickman23
-  cardonhickman@gmail.com
+Instalation/cloning available at the github repository
+
+## Usage
+
+_npm install_ then _node script.js_ in the root directory
+
+Demo: https://drive.google.com/file/d/1nwQGshk6ynbrfHzM0SO27HU4sILhkYz5/view?usp=sharing
+
+## License
+
+This project is licensed under the [MIT License]([License Details](https://opensource.org/licenses/MIT)).
+
+## Contributing
+
+Cardon Hickman
+
+## Tests
+
+N/A
+
+## Questions
+
+https://github.com/C-Hickman23
+cardonhickman@gmail.com
